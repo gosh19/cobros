@@ -35,7 +35,6 @@
       <input type="text" name="mail" value="" placeholder="E-mail" required><br>
       <input type="text" name="tarjeta" value="" placeholder="Datos Tarjeta" required><br>
       <input type="number" name="valor_cuota" value="" placeholder="Valor cuota"><br>
-      <input type="number" name="anexos" value="" placeholder="Anexos"><br>
       <select class="tipo" name="tipo">
         <option value="">Tipo de pago...</option>
         <option value="credito">Credito</option>
