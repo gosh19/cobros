@@ -1,0 +1,116 @@
+[28-Sep-2018 23:03:57 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/asyste3/cobranza.worknow-cursos.com/cobro/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 242
+[01-Oct-2018 13:50:46 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asyste3/cobranza.worknow-cursos.com/buscador-estados.php on line 23
+[01-Oct-2018 13:50:46 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/asyste3/cobranza.worknow-cursos.com/buscador-estados.php on line 25
+[01-Oct-2018 13:50:46 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asyste3/cobranza.worknow-cursos.com/buscador-estados.php on line 23
+[01-Oct-2018 13:50:46 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/asyste3/cobranza.worknow-cursos.com/buscador-estados.php on line 25
+[01-Oct-2018 13:50:46 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asyste3/cobranza.worknow-cursos.com/buscador-estados.php on line 23
+[01-Oct-2018 13:50:46 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/asyste3/cobranza.worknow-cursos.com/buscador-estados.php on line 25
+[01-Oct-2018 13:50:46 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asyste3/cobranza.worknow-cursos.com/buscador-estados.php on line 23
+[01-Oct-2018 13:50:46 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/asyste3/cobranza.worknow-cursos.com/buscador-estados.php on line 25
+[01-Oct-2018 13:51:01 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asyste3/cobranza.worknow-cursos.com/buscador-cobro.php on line 23
+[01-Oct-2018 13:51:01 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/asyste3/cobranza.worknow-cursos.com/buscador-cobro.php on line 25
+[01-Oct-2018 13:51:01 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asyste3/cobranza.worknow-cursos.com/buscador-cobro.php on line 23
+[01-Oct-2018 13:51:01 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/asyste3/cobranza.worknow-cursos.com/buscador-cobro.php on line 25
+[01-Oct-2018 13:51:02 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asyste3/cobranza.worknow-cursos.com/buscador-cobro.php on line 23
+[01-Oct-2018 13:51:02 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/asyste3/cobranza.worknow-cursos.com/buscador-cobro.php on line 25
+[01-Oct-2018 13:51:02 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asyste3/cobranza.worknow-cursos.com/buscador-cobro.php on line 23
+[01-Oct-2018 13:51:02 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/asyste3/cobranza.worknow-cursos.com/buscador-cobro.php on line 25
+[01-Oct-2018 13:51:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asyste3/cobranza.worknow-cursos.com/buscador-cobro.php on line 23
+[01-Oct-2018 13:51:14 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/asyste3/cobranza.worknow-cursos.com/buscador-cobro.php on line 25
+[01-Oct-2018 13:51:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asyste3/cobranza.worknow-cursos.com/buscador-cobro.php on line 23
+[01-Oct-2018 13:51:14 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/asyste3/cobranza.worknow-cursos.com/buscador-cobro.php on line 25
+[01-Oct-2018 13:51:15 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asyste3/cobranza.worknow-cursos.com/buscador-cobro.php on line 23
+[01-Oct-2018 13:51:15 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/asyste3/cobranza.worknow-cursos.com/buscador-cobro.php on line 25
+[01-Oct-2018 13:51:15 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asyste3/cobranza.worknow-cursos.com/buscador-cobro.php on line 23
+[01-Oct-2018 13:51:15 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/asyste3/cobranza.worknow-cursos.com/buscador-cobro.php on line 25
+[01-Oct-2018 13:51:19 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asyste3/cobranza.worknow-cursos.com/buscador.php on line 23
+[01-Oct-2018 13:51:19 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/asyste3/cobranza.worknow-cursos.com/buscador.php on line 25
+[01-Oct-2018 13:51:19 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asyste3/cobranza.worknow-cursos.com/buscador.php on line 23
+[01-Oct-2018 13:51:19 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/asyste3/cobranza.worknow-cursos.com/buscador.php on line 25
+[01-Oct-2018 13:51:20 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asyste3/cobranza.worknow-cursos.com/buscador.php on line 23
+[01-Oct-2018 13:51:20 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/asyste3/cobranza.worknow-cursos.com/buscador.php on line 25
+[01-Oct-2018 13:51:20 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asyste3/cobranza.worknow-cursos.com/buscador.php on line 23
+[01-Oct-2018 13:51:20 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/asyste3/cobranza.worknow-cursos.com/buscador.php on line 25
+[01-Oct-2018 13:51:27 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asyste3/cobranza.worknow-cursos.com/buscador.php on line 23
+[01-Oct-2018 13:51:27 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/asyste3/cobranza.worknow-cursos.com/buscador.php on line 25
+[01-Oct-2018 13:51:27 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asyste3/cobranza.worknow-cursos.com/buscador.php on line 23
+[01-Oct-2018 13:51:27 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/asyste3/cobranza.worknow-cursos.com/buscador.php on line 25
+[01-Oct-2018 13:51:27 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asyste3/cobranza.worknow-cursos.com/buscador.php on line 23
+[01-Oct-2018 13:51:27 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/asyste3/cobranza.worknow-cursos.com/buscador.php on line 25
+[01-Oct-2018 13:52:13 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asyste3/cobranza.worknow-cursos.com/buscador-estados.php on line 23
+[01-Oct-2018 13:52:13 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/asyste3/cobranza.worknow-cursos.com/buscador-estados.php on line 25
+[01-Oct-2018 13:52:13 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asyste3/cobranza.worknow-cursos.com/buscador-estados.php on line 23
+[01-Oct-2018 13:52:13 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/asyste3/cobranza.worknow-cursos.com/buscador-estados.php on line 25
+[01-Oct-2018 13:52:13 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asyste3/cobranza.worknow-cursos.com/buscador-estados.php on line 23
+[01-Oct-2018 13:52:13 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/asyste3/cobranza.worknow-cursos.com/buscador-estados.php on line 25
+[01-Oct-2018 13:52:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asyste3/cobranza.worknow-cursos.com/buscador-estados.php on line 23
+[01-Oct-2018 13:52:14 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/asyste3/cobranza.worknow-cursos.com/buscador-estados.php on line 25
+[01-Oct-2018 13:52:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asyste3/cobranza.worknow-cursos.com/buscador-estados.php on line 23
+[01-Oct-2018 13:52:14 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/asyste3/cobranza.worknow-cursos.com/buscador-estados.php on line 25
+[01-Oct-2018 13:52:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asyste3/cobranza.worknow-cursos.com/buscador-estados.php on line 23
+[01-Oct-2018 13:52:14 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/asyste3/cobranza.worknow-cursos.com/buscador-estados.php on line 25
+[01-Oct-2018 13:52:15 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asyste3/cobranza.worknow-cursos.com/buscador-estados.php on line 23
+[01-Oct-2018 13:52:15 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/asyste3/cobranza.worknow-cursos.com/buscador-estados.php on line 25
+[01-Oct-2018 13:52:15 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asyste3/cobranza.worknow-cursos.com/buscador-estados.php on line 23
+[01-Oct-2018 13:52:15 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/asyste3/cobranza.worknow-cursos.com/buscador-estados.php on line 25
+[01-Oct-2018 13:52:15 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asyste3/cobranza.worknow-cursos.com/buscador-estados.php on line 23
+[01-Oct-2018 13:52:15 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/asyste3/cobranza.worknow-cursos.com/buscador-estados.php on line 25
+[01-Oct-2018 13:52:15 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asyste3/cobranza.worknow-cursos.com/buscador-estados.php on line 23
+[01-Oct-2018 13:52:15 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/asyste3/cobranza.worknow-cursos.com/buscador-estados.php on line 25
+[01-Oct-2018 13:53:46 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asyste3/cobranza.worknow-cursos.com/buscador-estados.php on line 23
+[01-Oct-2018 13:53:46 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/asyste3/cobranza.worknow-cursos.com/buscador-estados.php on line 25
+[01-Oct-2018 13:53:46 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asyste3/cobranza.worknow-cursos.com/buscador-estados.php on line 23
+[01-Oct-2018 13:53:46 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/asyste3/cobranza.worknow-cursos.com/buscador-estados.php on line 25
+[01-Oct-2018 13:53:46 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asyste3/cobranza.worknow-cursos.com/buscador-estados.php on line 23
+[01-Oct-2018 13:53:46 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/asyste3/cobranza.worknow-cursos.com/buscador-estados.php on line 25
+[01-Oct-2018 13:53:46 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/asyste3/cobranza.worknow-cursos.com/buscador-estados.php on line 23
+[01-Oct-2018 13:53:46 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/asyste3/cobranza.worknow-cursos.com/buscador-estados.php on line 25
+[28-Nov-2018 17:07:32 UTC] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home/asyste3/cobranza.worknow-cursos.com/actualizar-cupo.php on line 16
+[28-Nov-2018 17:10:08 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/asyste3/cobranza.worknow-cursos.com/actualizar-cupo.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/asyste3/cobranza.worknow-cursos.com/actualizar-cupo.php on line 16
+[28-Nov-2018 17:12:03 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/asyste3/cobranza.worknow-cursos.com/actualizar-cupo.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/asyste3/cobranza.worknow-cursos.com/actualizar-cupo.php on line 16
+[28-Nov-2018 17:12:12 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/asyste3/cobranza.worknow-cursos.com/actualizar-cupo.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/asyste3/cobranza.worknow-cursos.com/actualizar-cupo.php on line 16
+[28-Nov-2018 17:12:15 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/asyste3/cobranza.worknow-cursos.com/actualizar-cupo.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/asyste3/cobranza.worknow-cursos.com/actualizar-cupo.php on line 16
+[28-Nov-2018 17:12:50 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/asyste3/cobranza.worknow-cursos.com/actualizar-cupo.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/asyste3/cobranza.worknow-cursos.com/actualizar-cupo.php on line 16
+[28-Nov-2018 17:14:07 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/asyste3/cobranza.worknow-cursos.com/actualizar-cupo.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/asyste3/cobranza.worknow-cursos.com/actualizar-cupo.php on line 26
+[28-Nov-2018 17:15:36 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Dato' not found in /home/asyste3/cobranza.worknow-cursos.com/actualizar-cupo.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/asyste3/cobranza.worknow-cursos.com/actualizar-cupo.php on line 32
+[28-Nov-2018 17:18:30 UTC] PHP Fatal error:  Uncaught Error: Class 'cobro\App\Dato' not found in /home/asyste3/cobranza.worknow-cursos.com/actualizar-cupo.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/asyste3/cobranza.worknow-cursos.com/actualizar-cupo.php on line 31
+[28-Nov-2018 17:20:53 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/asyste3/cobranza.worknow-cursos.com/actualizar-cupo.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/asyste3/cobranza.worknow-cursos.com/actualizar-cupo.php on line 17
+[28-Nov-2018 17:23:08 UTC] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home/asyste3/cobranza.worknow-cursos.com/actualizar-cupo.php on line 17
+[28-Nov-2018 17:23:40 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/asyste3/cobranza.worknow-cursos.com/actualizar-cupo.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/asyste3/cobranza.worknow-cursos.com/actualizar-cupo.php on line 17
+[28-Nov-2018 17:23:43 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/asyste3/cobranza.worknow-cursos.com/actualizar-cupo.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/asyste3/cobranza.worknow-cursos.com/actualizar-cupo.php on line 17
+[28-Nov-2018 17:43:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/asyste3/cobranza.worknow-cursos.com/actualizar-cupo.php on line 16
+[28-Nov-2018 17:43:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/asyste3/cobranza.worknow-cursos.com/actualizar-cupo.php on line 16
+[28-Nov-2018 17:44:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/asyste3/cobranza.worknow-cursos.com/actualizar-cupo.php on line 16

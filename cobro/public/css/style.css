@@ -1,0 +1,180 @@
+.todo{
+  background: #04B45F;
+  padding: 20px;
+}
+
+.menu{
+  background: #045FB4;
+  font-family: 'Poppins', sans-serif;
+}
+.menu a{
+  color: green;
+  font-size: 20px;
+  font-weight: bold;
+  margin-left: 25px;
+  transition: .6s;
+}
+.menu a:hover{
+  background: #58ACFA;
+  transition: .6s;
+  border-radius: 10px;
+}
+.dropdown-menu a{
+  color: #000;
+  margin:0px;
+  border-radius: 0px;
+}
+.cabeza-header{
+  font-weight: bold;
+}
+.caja{
+  background: #FFF;
+  color: #000;
+  font-weight: bold;
+  padding: 25px;
+  transition: .6s;
+}
+.caja:hover{
+  background: #81F79F;
+  transition: .6s;
+}
+.caja a{
+  color: #000;
+}
+.franja{
+  background: blue;
+  height: 15px;
+}
+#no-titular{
+  padding: 15px;
+  background: #FFF;
+  margin-top: 10px;
+  cursor: hand;
+}
+.formulario{
+
+  padding: 10px;
+}
+.formulario h1{
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+}
+.formulario>div{
+  width: 100%;
+  border: 3px solid #0B0B61;
+  border-radius: 15px;
+  background-image: url('../imagenes/fondo-form.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.formulario select{
+  margin-top: 15px;
+  width: 250px;
+}
+.formulario input{
+  margin-top: 15px;
+  padding: 10px;
+  width: 400px;
+  border-radius: 5px;
+  border: 1px solid #08298A;
+  background: #A9D0F5;
+}
+.formulario .boton{
+  background: #0B0B61;
+  transition: .6s;
+  color: #FFF;
+  margin-bottom: 15px;
+  font-weight: bold;
+  font-size: 23px;
+}
+.formulario .boton:hover{
+  background: #CECEF6;
+  transition: .6s;
+  color: #000;
+  cursor: pointer;
+}
+.pie{
+  background: #045FB4;
+  padding: 15px;
+}
+.tablaBuscador{
+  background: #FF4000;
+}
+.tablaBuscador th{
+  background: #8A0808;
+  color: #000;
+}
+table{
+  padding: 30px;
+  background: #A9F5E1;
+  border: 2px solid black;
+}
+th{
+  padding: 10px;
+  border: 3px solid black;
+  width: 300px;
+  background: #0B615E;
+  color: #FFF;
+}
+td{
+  padding-left: 10px;
+  font-size: 20px;
+  border: 1px solid black;
+  font-family: 'Hind Madurai', sans-serif;
+}
+td>a{
+  font-weight: bold;
+  background: #0404B4;
+  color: #FFF;
+  padding: 1px;
+  margin:auto;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 10px;
+}
+#baja{
+  padding: 10px;
+  margin-bottom: 15px;
+  background: #0174DF;
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: 20px;
+  color: #FFF;
+  transition: .6s;
+}
+#baja:hover{
+  background: #084B8A;
+  transition: .6s;
+  cursor: hand;
+}
+#devolucion{
+  padding: 10px;
+  margin-bottom: 15px;
+  background: #0174DF;
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: 20px;
+  color: #FFF;
+  transition: .6s;
+}
+#devolucion:hover{
+  background: #084B8A;
+  transition: .6s;
+  cursor: hand;
+}
+.boton{
+  padding: 10px;
+  margin-bottom: 15px;
+  background: #FE2E2E;
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: 20px;
+  color: #FFF;
+  transition: .6s;
+  margin-top: 18px;
+}
+.boton:hover{
+  background: #8A0808;
+  transition: .6s;
+  cursor: hand;
+}
